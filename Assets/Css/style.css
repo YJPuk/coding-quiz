@@ -1,0 +1,94 @@
+/* Font */
+* {
+    font-family: Roboto, Arial, sans-serif;
+}
+
+/*Header and Timer colors etc */
+
+.quiz, .scores {
+    margin: 50px auto;
+    max-width: 500px;
+}
+
+p {
+    margin: 10px 10px;
+}
+
+.landing {
+    text-align: center;
+}
+
+.scoresHeader {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.timer {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/*buttons and hover over effects making it darker */
+button {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #2f2da1;
+    border-radius: 3px;
+    border: 0;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #080141;
+}
+
+.options button {
+    display: block;
+}
+
+input[type="text"] {
+    font-size: 100%;
+}
+
+/*Hiding following pages */
+.hidden {
+    display: none;
+}
+
+.feedback {
+    font-style: bold;
+    font-size: 120%;
+    margin-top: 20px;
+    padding-top: 15px;
+    color: #fff;
+    border-top: 2px solid #010111;
+}
+
+ol {
+    padding-left: 15px;
+    max-height: 600px;
+    overflow: auto;
+}
+
+/*Accent colors for scores*/
+li {
+    padding: 5px;
+    list-style: decimal inside none;
+    background-color: #eae9ec;
+}
+
+
+/* Resizing for different screen types*/
+
+@media screen and (max-width: 768px) {
+
+}
+
+
+@media screen and  (max-width: 575px) {
+
+}
