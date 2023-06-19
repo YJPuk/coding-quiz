@@ -3,6 +3,11 @@
 # Deployed link: https://yjpuk.github.io/coding-quiz/
 
 Screenshot of page: 
+https://github.com/YJPuk/coding-quiz/blob/main/Screenshots/1.Front%20page.png
+https://github.com/YJPuk/coding-quiz/blob/main/Screenshots/2.Questions.png
+https://github.com/YJPuk/coding-quiz/blob/main/Screenshots/3.End.png
+https://github.com/YJPuk/coding-quiz/blob/main/Screenshots/4.High%20Score.png
+https://github.com/YJPuk/coding-quiz/blob/main/Screenshots/5.Multiple%20names%20High%20Score.png
 
 <hr>
 
