@@ -1,6 +1,6 @@
 # 04 Web APIs: Code Quiz
 
-# Deployed link: 
+# Deployed link: https://yjpuk.github.io/coding-quiz/
 
 Screenshot of page: 
 
