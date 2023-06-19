@@ -1,5 +1,28 @@
 # 04 Web APIs: Code Quiz
 
+# Deployed link: 
+
+Screenshot of page: 
+
+<hr>
+
+Description
+
+As coding student I'm trying to create a simple quiz that utilizes JavaScript fundamentals. These features match the Acceptance Criteria listed in the task below. 
+
+The Coding Quiz page includes
+&#x2022; A Start button
+&#x2022; A timer that starts when I click the start button
+&#x2022; Another question after I answer one for a total of 5 questions
+&#x2022; Upon an inccorect answer time is subtracted from the timer
+&#x2022; The game ends when the timer reaches 0 or all questions have been answered
+&#x2022; Player's initials are saved to the score 
+
+This was built using HTML, CSS, Javascript and love.
+
+<hr>
+
+
 ## Your Task
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
