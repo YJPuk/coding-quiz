@@ -11,12 +11,12 @@ Description
 As coding student I'm trying to create a simple quiz that utilizes JavaScript fundamentals. These features match the Acceptance Criteria listed in the task below. 
 
 The Coding Quiz page includes
-&#x2022; A Start button
-&#x2022; A timer that starts when I click the start button
-&#x2022; Another question after I answer one for a total of 5 questions
-&#x2022; Upon an inccorect answer time is subtracted from the timer
-&#x2022; The game ends when the timer reaches 0 or all questions have been answered
-&#x2022; Player's initials are saved to the score 
+<h4>&#x2022; A Start button </h4> 
+<h4>&#x2022; A timer that starts when I click the start button </h4> 
+<h4>&#x2022; Another question after I answer one for a total of 5 questions </h4> 
+<h4>&#x2022; Upon an inccorect answer time is subtracted from the timer </h4> 
+<h4>&#x2022; The game ends when the timer reaches 0 or all questions have been answered </h4> 
+<h4>&#x2022; Player's initials are saved to the score </h4> 
 
 This was built using HTML, CSS, Javascript and love.
 
